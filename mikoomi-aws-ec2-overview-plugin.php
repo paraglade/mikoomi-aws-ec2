@@ -294,6 +294,7 @@ function EC2_DescribeInstances($creds)
                                 'm2.2xlarge'=> 0,
                                 'm2.4xlarge'=> 0,
                                 'm2.xlarge'=> 0,
+                                'm3.xlarge'=> 0,
                                 't1.micro'=> 0
                                 ) ;
    
